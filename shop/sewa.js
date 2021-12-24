@@ -21,7 +21,7 @@ return `「 *PRICE LIST* 」
 
 
 NOTE : 
-Bot On 24 Jam Karna Di Run Menggunakan Heroku
+Bot On 24 Jam Karna Di Run Menggunakan Heroku dan railway
 Reset Data Setiap Jam 02:00 `
 	}
 
