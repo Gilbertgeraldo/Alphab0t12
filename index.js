@@ -450,7 +450,7 @@ await alpha.updatePresence(from, Presence.composing)
 							}
 						}
  
- ​const   beliprem   =   (​sender ,   asu )   =>   {
+ ​const beliprem = (​sender ,  asu ) => {
     let found = false
 	Object.keys(limit).forEach((i) => {
 		if (limit[i].id === sender) {
