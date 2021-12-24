@@ -64,10 +64,10 @@ exports.spam = (prefix, command) => {
 	return `❎ Example ${prefix + command} teks|jumlah`
 	}
 exports.tahta = (prefix, command) => {
-	return `❎ Example ${prefix + command} zeeone|ofc`
+	return `❎ Example ${prefix + command}  Gilbert|bot`
 	}
 exports.noteks = (prefix, command) => {
-	return `❎ Example ${prefix + command} zeeone`
+	return `❎ Example ${prefix + command}  Gilbert`
 	}
 exports.botNotAdm = () => {
 	return `Jadikan bot sebagai admin u/ menggunakan perintah ini`
