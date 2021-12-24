@@ -12,7 +12,7 @@ _https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy_
 _https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU_
 
 Jika ada link yang ke reset, silahkan hubungi
-owner untuk meminta link yang baru
+owner untuk meminta link yang baru:) 
 `
 }
 exports.gcbotwa = gcbotwa
