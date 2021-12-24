@@ -60,7 +60,7 @@ ${petik}├❒ Source
 ├❒ Group_support
 └❒ Ownerbot${petik}
 
-❒ _Creator BotWea © 2K21_ ❒
+❒ _Creator BotWea © 2K22_ ❒
 `
 }
 const convert = (prefix) => {
@@ -110,7 +110,7 @@ ${petik}└❒ ${prefix}anime${petik} _random_
 `
 }
 const allmenu = (prefix, wita, wit, ucapannya2, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensiii, tekss)  => {
-	return`❏───「 GILBERT BOT* 」───❏
+	return`❏───「 *GILBERT BOT* 」───❏
      
 ┌❏ *INDONESIA TIME*
 ${petik}│◦➛ WIB : ${timuu}
@@ -1592,12 +1592,12 @@ const coganmenu = (prefix) => {
 const quotesmenu = (prefix) => {
 	return `┌❑ *QUOTES MENU* ❑
 │
-├❒ ${petik}${prefix}katailham${petik}  
+├❒ ${petik}${prefix}katailham🗿${petik}  
 ├❒ ${petik}${prefix}dare${petik}   
 ├❒ ${petik}${prefix}truth${petik}  
 ├❒ ${petik}${prefix}katabijak_lucu${petik}   
 ├❒ ${petik}${prefix}katacaklontong${petik}  
-└❒ ${petik}${prefix}katadilan${petik}  
+└❒ ${petik}${prefix}katadilan🥰${petik}  
 `
 }
 const shopmenu = (prefix) => {
