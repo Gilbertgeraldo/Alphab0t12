@@ -460,7 +460,7 @@ const beliprem = (sender, asurgb(0,204,255))
 			limit[found].limit += asu
 			fs.writeFileSync('./database/limit.json', JSON.stringify(limit))
 		}
-}
+
 
 const addRegisterUser = (userid, sender, bio, time) => {
 const objp = { id: userid, nomor: sender, bio: bio, time: time }
