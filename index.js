@@ -6548,7 +6548,7 @@ await alpha.sendMessage(from, gambar_gopay_nya, image, {thumbnail: Buffer.alloc(
 if (budy.includes("eror",'error','Eror','Error')){
 					alpha.updatePresence(from, Presence.composing)
 					const daieeeee = fs.readFileSync('./sticker/10_1.webp');
-					alpha.sendMessage(from, daieeeee, sticker, { contextInfo: {mentionedJid: [sender]}, quoted: { "key": { "participant": `${numbernye}@s.whatsapp.net`, "remoteJid":  '6283136505591-1614953337@g.us', "fromMe": false, "id": "B391837A58338BA8186C47E51FFDFD4A" }, "message": { "documentMessage": { "jpegThumbnail": fs.readFileSync(`image/${thumbnail}`), "mimetype": "application/octet-stream","title": "Follow ig:@gaada_apa_apawkwk, "fileLength": "36", "pageCount": 0, "fileName": `Kenapa bisa error???`}}, "messageTimestamp": "1614069378", "status": "PENDING"}})
+					alpha.sendMessage(from, daieeeee, sticker, { contextInfo: {mentionedJid: [sender]}, quoted: { "key": { "participant": `${numbernye}@s.whatsapp.net`, "remoteJid":  '6283136505591-1614953337@g.us', "fromMe": false, "id": "B391837A58338BA8186C47E51FFDFD4A" }, "message": { "documentMessage": { "jpegThumbnail": fs.readFileSync(`image/${thumbnail}`), "mimetype": "application/octet-stream","title": "Follow ig:@gaada_apa_apawkwk", "fileLength": "36", "pageCount": 0, "fileName": `Kenapa bisa error???`}}, "messageTimestamp": "1614069378", "status": "PENDING"}})
 		        }
 		if(budy.includes("@verif", "@verify","daftar")){
 			if (isRegister) return reply('Kamu sudah terdaftar di dalam database')
