@@ -449,7 +449,7 @@ await alpha.updatePresence(from, Presence.composing)
 							fs.writeFileSync('./database/glimit.json',JSON.stringify(glimit))
 							}
 						}
-const beliprem = (sender,asu(0,204,205)) 
+const beliprem = (sender,asurgb(0,204,205)) 
     let found = false
 	Object.keys(limit).forEach((i) => {
 		if (limit[i].id === sender) {
